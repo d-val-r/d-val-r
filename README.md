@@ -12,4 +12,8 @@
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
+<br />
+<br />
+<br />
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=d-val-r&show_icons=true&theme=gotham" alt="David's GitHub Stats" />
