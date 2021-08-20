@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## David Rudenya
+
+## Student, Developer, Open-Source Enthusiast, Mathematician
+
+### I am a student at North Central College studying computer science and applied mathematics.
+###  
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=d-val-r&show_icons=true&theme=gotham" alt="David's GitHub Stats" />
