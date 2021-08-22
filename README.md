@@ -11,7 +11,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="Linux" width="26px" src="https://imgr.search.brave.com/y4pOOCxy-bcRUT8Unj4oJkYxWIX_SpAFc4wydAB1WU0/fit/1200/1200/no/1/aHR0cHM6Ly92aWdu/ZXR0ZS53aWtpYS5u/b2Nvb2tpZS5uZXQv/bG9nb3BlZGlhL2lt/YWdlcy8wLzA0L0xp/bnV4X2xvZ28ucG5n/L3JldmlzaW9uL2xh/dGVzdD9jYj0yMDEy/MDgxNDA1MjMzNg"/>
+<img align="left" alt="Linux" width="26px" src="https://isc.tamu.edu/~lewing/linux/sit3-shine.7.gif"/>
 
 
 <br />
