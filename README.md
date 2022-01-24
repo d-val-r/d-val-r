@@ -13,6 +13,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Linux" width="26px" src="https://isc.tamu.edu/~lewing/linux/sit3-shine.7.gif"/>
 <img align="left" alt="Linux" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/latex-logo-png-transparent.png"/>
+<img align="left" alt="Linux" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/280/landscape/vscode-logo.png"/>
+<img align="left" alt="Linux" width="26px" src="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Linux_logo.png/revision/latest?cb=20120814052336"/>
+
 
 
 
